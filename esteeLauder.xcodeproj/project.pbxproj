@@ -15,6 +15,7 @@
 		357DFF82268CF2E90042579E /* esteeLauder.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 357DFF80268CF2E90042579E /* esteeLauder.xcdatamodeld */; };
 		357DFF84268CF2ED0042579E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 357DFF83268CF2ED0042579E /* Assets.xcassets */; };
 		357DFF87268CF2ED0042579E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 357DFF85268CF2ED0042579E /* LaunchScreen.storyboard */; };
+		35B2B036268E6CF7002D87F8 /* PurchaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35B2B035268E6CF7002D87F8 /* PurchaseViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		357DFF83268CF2ED0042579E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		357DFF86268CF2ED0042579E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		357DFF88268CF2ED0042579E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		35B2B035268E6CF7002D87F8 /* PurchaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PurchaseViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				357DFF79268CF2E90042579E /* FirstViewController.swift */,
 				357DFF7B268CF2E90042579E /* SecondViewController.swift */,
 				357DFF7D268CF2E90042579E /* Main.storyboard */,
+				35B2B035268E6CF7002D87F8 /* PurchaseViewController.swift */,
 				357DFF83268CF2ED0042579E /* Assets.xcassets */,
 				357DFF85268CF2ED0042579E /* LaunchScreen.storyboard */,
 				357DFF88268CF2ED0042579E /* Info.plist */,
@@ -147,6 +150,7 @@
 				357DFF82268CF2E90042579E /* esteeLauder.xcdatamodeld in Sources */,
 				357DFF7C268CF2E90042579E /* SecondViewController.swift in Sources */,
 				357DFF7A268CF2E90042579E /* FirstViewController.swift in Sources */,
+				35B2B036268E6CF7002D87F8 /* PurchaseViewController.swift in Sources */,
 				357DFF76268CF2E90042579E /* AppDelegate.swift in Sources */,
 				357DFF78268CF2E90042579E /* SceneDelegate.swift in Sources */,
 			);
@@ -169,7 +173,9 @@
 				357DFF86268CF2ED0042579E /* Base */,
 			);
 			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
+			path = /Users/erinmartin/Downloads/KodeWithKlossy/esteeLauder/esteeLauder;
+			sourceTree = "<absolute>";
+			usesTabs = 0;
 		};
 /* End PBXVariantGroup section */
 
